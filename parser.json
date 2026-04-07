@@ -1,7 +1,6 @@
 {
-  "lang": "pascal",
-  "url": "https://github.com/Isopod/tree-sitter-pascal",
   "semver": false,
+  "lang": "pascal",
   "parser_version": "042119eca2e18a60e56317fb06ee3ba5c32cb447",
-  "location": null
+  "url": "https://github.com/Isopod/tree-sitter-pascal"
 }
